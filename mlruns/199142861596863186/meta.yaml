@@ -1,0 +1,6 @@
+artifact_location: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186
+creation_time: 1697394026657
+experiment_id: '199142861596863186'
+last_update_time: 1697394026657
+lifecycle_stage: active
+name: clf-default-name

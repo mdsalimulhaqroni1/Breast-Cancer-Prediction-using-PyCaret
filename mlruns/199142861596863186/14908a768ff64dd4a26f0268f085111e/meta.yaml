@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/14908a768ff64dd4a26f0268f085111e/artifacts
+end_time: 1697395894582
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: 14908a768ff64dd4a26f0268f085111e
+run_name: Ada Boost Classifier
+run_uuid: 14908a768ff64dd4a26f0268f085111e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697395894508
+status: 3
+tags: []
+user_id: roni

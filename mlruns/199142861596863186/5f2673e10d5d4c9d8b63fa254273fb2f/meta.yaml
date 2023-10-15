@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/5f2673e10d5d4c9d8b63fa254273fb2f/artifacts
+end_time: 1697395894806
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: 5f2673e10d5d4c9d8b63fa254273fb2f
+run_name: Decision Tree Classifier
+run_uuid: 5f2673e10d5d4c9d8b63fa254273fb2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697395894728
+status: 3
+tags: []
+user_id: roni

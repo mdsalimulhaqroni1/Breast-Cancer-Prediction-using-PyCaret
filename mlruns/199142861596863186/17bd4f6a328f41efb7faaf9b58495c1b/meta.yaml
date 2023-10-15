@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/17bd4f6a328f41efb7faaf9b58495c1b/artifacts
+end_time: 1697395893754
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: 17bd4f6a328f41efb7faaf9b58495c1b
+run_name: Gradient Boosting Classifier
+run_uuid: 17bd4f6a328f41efb7faaf9b58495c1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697395893683
+status: 3
+tags: []
+user_id: roni

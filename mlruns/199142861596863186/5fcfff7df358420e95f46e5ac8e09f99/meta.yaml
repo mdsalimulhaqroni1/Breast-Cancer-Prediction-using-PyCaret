@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/5fcfff7df358420e95f46e5ac8e09f99/artifacts
+end_time: 1697395895020
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: 5fcfff7df358420e95f46e5ac8e09f99
+run_name: Naive Bayes
+run_uuid: 5fcfff7df358420e95f46e5ac8e09f99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697395894940
+status: 3
+tags: []
+user_id: roni

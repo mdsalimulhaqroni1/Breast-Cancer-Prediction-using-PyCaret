@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/4e9f2f9bf076428ca18565226f6cd820/artifacts
+end_time: 1697396610762
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: 4e9f2f9bf076428ca18565226f6cd820
+run_name: Dummy Classifier
+run_uuid: 4e9f2f9bf076428ca18565226f6cd820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697396610694
+status: 3
+tags: []
+user_id: roni

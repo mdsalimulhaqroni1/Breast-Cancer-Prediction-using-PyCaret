@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/eac637a6ff7d4470a54e643da20fb90d/artifacts
+end_time: 1697395926097
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: eac637a6ff7d4470a54e643da20fb90d
+run_name: Ridge Classifier
+run_uuid: eac637a6ff7d4470a54e643da20fb90d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697395925709
+status: 3
+tags: []
+user_id: roni

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/88e6c88e66714e3985a638cda8e962f5/artifacts
+end_time: 1697395895217
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: 88e6c88e66714e3985a638cda8e962f5
+run_name: Quadratic Discriminant Analysis
+run_uuid: 88e6c88e66714e3985a638cda8e962f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697395895151
+status: 3
+tags: []
+user_id: roni

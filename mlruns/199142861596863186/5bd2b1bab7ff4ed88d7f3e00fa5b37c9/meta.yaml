@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/5bd2b1bab7ff4ed88d7f3e00fa5b37c9/artifacts
+end_time: 1697395893539
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: 5bd2b1bab7ff4ed88d7f3e00fa5b37c9
+run_name: Extra Trees Classifier
+run_uuid: 5bd2b1bab7ff4ed88d7f3e00fa5b37c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697395893458
+status: 3
+tags: []
+user_id: roni

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/4bac9aa9c63a4947865fbf5f71cd23c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: 4bac9aa9c63a4947865fbf5f71cd23c3
+run_name: Session Initialized 9deb
+run_uuid: 4bac9aa9c63a4947865fbf5f71cd23c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697396496029
+status: 1
+tags: []
+user_id: roni

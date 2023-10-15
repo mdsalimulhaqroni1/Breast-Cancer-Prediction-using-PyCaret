@@ -1,0 +1,15 @@
+artifact_uri: file:///home/roni/Project/Breast%20Cancer%20Prediction%20using%20PyCaret/mlruns/199142861596863186/382a765a09644b76ae16504387ddd3be/artifacts
+end_time: 1697395737981
+entry_point_name: ''
+experiment_id: '199142861596863186'
+lifecycle_stage: active
+run_id: 382a765a09644b76ae16504387ddd3be
+run_name: Random Forest Classifier
+run_uuid: 382a765a09644b76ae16504387ddd3be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697395737548
+status: 3
+tags: []
+user_id: roni
